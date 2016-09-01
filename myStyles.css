@@ -1,0 +1,39 @@
+
+h2, h3, form, input, button {
+    margin: 5%;
+}
+
+button {
+    float: right;
+}
+
+img {
+    margin: 2%;
+}
+
+form {
+    margin-bottom: 1%;
+}
+
+.image {
+    height: 250px;
+    width: auto;
+    background-image: url('http://blog.kitbag.com/wp-content/uploads/2015/11/output_gpiljp-1.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.jumbotron, well {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.jumbotron {
+    background-color: black;
+    color: white;
+}
+
+#info {
+    color: red;
+}
